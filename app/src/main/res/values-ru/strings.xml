@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab3ДанныеПользователя</string>
+    <string name="user_name">имя пользователя</string>
+    <string name="address">адрес</string>
+    <string name="comment">комментарий</string>
+    <string name="user_surname">фамилия пользователя</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="country">страна</string>
+    <string name="city">город</string>
+    <string name="exit">Выйти</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="are_you_sure">Вы уверены?</string>
+</resources>

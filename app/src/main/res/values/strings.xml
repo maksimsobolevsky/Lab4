@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab3UserData</string>
+    <string name="user_name">user name</string>
+    <string name="address">address</string>
+    <string name="comment">comment</string>
+    <string name="user_surname">user surname</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="country">country</string>
+    <string name="city">city</string>
+    <string name="exit">exit</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="are_you_sure">Are you sure?</string>
+</resources>
